@@ -1,5 +1,3 @@
-Sure! Here's a polished and professional **intro** for your GitHub profile:
-
 ---
 
 ### 👋 Hi, I'm Siddharth!
@@ -12,18 +10,28 @@ Feel free to check out some of my work below! I’m open to new ideas and contri
 - **[Project 1]**: Brief description of the project
 - **[Project 2]**: Brief description of the project
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/siddharth) (Replace with your actual LinkedIn URL)
-- [Email](mailto:siddharth@email.com) (Replace with your actual email)
+---
 
+### 🚀 My Projects
 
+1. [**Project Name 1**](https://github.com/username/project-name-1)
+2. [**Project Name 2**](https://github.com/username/project-name-2)
+3. [**Project Name 3**](https://github.com/username/project-name-3)
+4. [**Project Name 4**](https://github.com/username/project-name-4)
+5. [**Project Name 5**](https://github.com/username/project-name-5)
+6. [**Project Name 6**](https://github.com/username/project-name-6)
+7. [**Project Name 7**](https://github.com/username/project-name-7)
+
+---
 
 ### 💬✨ Kind Words:'
 
 ![Testimonials GIF](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
 
-
-
 ---
 
-Let me know if you want to adjust or add any specific details!
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/siddharth) (Replace with your actual LinkedIn URL)
+- [Email](mailto:siddharth.kale918@email.com) (siddharth.kale918@email.com)
+
+
