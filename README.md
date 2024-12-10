@@ -18,7 +18,8 @@ Feel free to check out some of my work below! I’m open to new ideas and contri
 
 
 
-### 💬✨ Kind Words:
+### 💬✨ Kind Words:'
+
 ![Testimonials](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
 
 
