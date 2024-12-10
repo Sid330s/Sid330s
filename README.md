@@ -16,6 +16,12 @@ Feel free to check out some of my work below! I’m open to new ideas and contri
 - [LinkedIn](https://www.linkedin.com/in/siddharth) (Replace with your actual LinkedIn URL)
 - [Email](mailto:siddharth@email.com) (Replace with your actual email)
 
+
+
+### 💬✨ Kind Words:
+![Testimonials](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
+
+
 ---
 
 Let me know if you want to adjust or add any specific details!
