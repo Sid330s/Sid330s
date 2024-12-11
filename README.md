@@ -2,25 +2,23 @@
 
 ### 👋 Hi, I'm Siddharth!
 
-I'm a passionate **developer** with a keen interest in creating impactful software. I specialize in **[list your skills or programming languages here, e.g., Python, JavaScript, React, Machine Learning, etc.]**, and I enjoy building scalable and efficient applications. I’m always excited to collaborate on open-source projects and contribute to the tech community.
-
-Feel free to check out some of my work below! I’m open to new ideas and contributions, so if you have any interesting projects or questions, don’t hesitate to reach out.
+I'm a passionate **developer** with a keen interest in creating impactful software. Feel free to check out some of my work below! I’m open to new ideas and contributions, so if you have any interesting projects or questions, don’t hesitate to reach out.
 
 ### 🌱 What I’m currently working on:
-- **[Project 1]**: Brief description of the project
-- **[Project 2]**: Brief description of the project
+- **[TTMM]**: TTMM (तुझं तू माझं मी)** is a user-friendly application designed to help you manage your expenses and split them among friends and groups effortlessly. This README provides an overview of the requirements to help you get started with TTMM
 
 ---
 
 ### 🚀 My Projects
 
-1. [**Project Name 1**](https://github.com/username/project-name-1)
-2. [**Project Name 2**](https://github.com/username/project-name-2)
-3. [**Project Name 3**](https://github.com/username/project-name-3)
-4. [**Project Name 4**](https://github.com/username/project-name-4)
-5. [**Project Name 5**](https://github.com/username/project-name-5)
-6. [**Project Name 6**](https://github.com/username/project-name-6)
-7. [**Project Name 7**](https://github.com/username/project-name-7)
+1. [**Chain4India**](https://github.com/username/project-name-1)
+2. [**WisePMS**](https://github.com/username/project-name-2)
+3. [**Investech**](https://github.com/username/project-name-3)
+4. [**Multi-Programming Operating System**](https://github.com/username/project-name-4)
+5. [**Blockchain From Scratch**](https://github.com/username/project-name-5)
+6. [**Instagram-Clone**](https://github.com/username/project-name-6)
+7. [**N-Queen Problem using AI**](https://github.com/username/project-name-7)
+8. [**Maze Game**](https://github.com/username/project-name-7)
 
 ---
 
