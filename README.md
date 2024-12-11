@@ -4,10 +4,6 @@
 
 I'm a passionate **developer** with a keen interest in creating impactful software. Feel free to check out some of my work below! I’m open to new ideas and contributions, so if you have any interesting projects or questions, don’t hesitate to reach out.
 
-### 🌱 What I’m currently working on:
-- **[TTMM]**: TTMM is a user-friendly application designed to help you manage your expenses and split them among friends and groups effortlessly. This README provides an overview of the requirements to help you get started with TTMM
-
----
 
 ### 🚀 My Projects
 
