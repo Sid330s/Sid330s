@@ -4,12 +4,7 @@
 
 I'm a passionate **developer** with a keen interest in creating impactful software. Feel free to check out some of my work below! I’m open to new ideas and contributions, so if you have any interesting projects or questions, don’t hesitate to reach out.
 
-
-Here is the complete list of all your projects in the requested format:
-
 ### 🚀 My Projects
-
-Here's the renumbered list based on your provided entries:
 
 1. [**Chain4India-Supply-Chain-Model-for-PPE-Kits**](https://github.com/Sid330s/Chain4India-Supply-Chain-Model-for-PPE-Kits)  
 2. [**AIYogaTrainer**](https://github.com/Sid330s/AIYogaTrainer)  
