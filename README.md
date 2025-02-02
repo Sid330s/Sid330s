@@ -23,6 +23,11 @@ I'm a passionate **developer** with a keen interest in creating impactful softwa
 15. [**MazeGame**](https://github.com/Sid330s/MazeGame)  
 16. [**ChessGame**](https://github.com/Sid330s/ChessGame)
 
+
+### 📫 Skills:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
 ### 💬✨ Kind Words:'
 
 ![Testimonials GIF](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
@@ -32,5 +37,7 @@ I'm a passionate **developer** with a keen interest in creating impactful softwa
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/siddharth-kale-936922174)
 - [Email](mailto:siddharth.kale918@email.com) (siddharth.kale918@email.com)
+
+
 
 
