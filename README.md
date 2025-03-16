@@ -1,59 +1,46 @@
----
+# Hey There! 👋
+**I'm Siddharth** - I'm a software engineer, maker, and avid learner. I work on a ton of random projects in my free time.
 
-### 👋 Hi, I'm Siddharth!
+Check out my [portfolio](https://github.com/Sid330s).
 
-I'm a passionate **developer** with a keen interest in creating impactful software. Feel free to check out some of my work below! I’m open to new ideas and contributions, so if you have any interesting projects or questions, don’t hesitate to reach out.
+[![SkillIcons](https://skillicons.dev/icons?i=anaconda,angular,ansible,apple,aws,azure,bash,bootstrap,c,cpp,css,discord,django,docker,dynamodb,eclipse,elasticsearch,fastapi,flask,gcp,git,github,gitlab,gmail,go,grafana,graphql,html,java,js,kafka,kubernetes,latex,linkedin,linux,md,maven,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,postgres,postman,powershell,prometheus,py,pytorch,r,rabbitmq,react,redhat,redis,regex,ruby,rust,spring,sqlite,scala,sklearn,tensorflow,terraform,ts,vscode,windows)](https://skillicons.dev)<br/>
 
-### 🚀 My Projects
-
-1. [**Chain4India-Supply-Chain-Model-for-PPE-Kits**](https://github.com/Sid330s/Chain4India-Supply-Chain-Model-for-PPE-Kits)  
-2. [**AIYogaTrainer**](https://github.com/Sid330s/AIYogaTrainer)  
-3. [**N-Queen-Problem**](https://github.com/Sid330s/N-Queen-Problem)  
-4. [**useFullCodes-return-AC-**](https://github.com/Sid330s/useFullCodes-return-AC-)  
-5. [**TTMM**](https://github.com/Sid330s/TTMM)  
-6. [**WisePMS**](https://github.com/Sid330s/WisePMS)  
-7. [**Instagram-Clone**](https://github.com/Sid330s/Instagram-Clone)  
-8. [**Investech**](https://github.com/Sid330s/Investech)  
-9. [**Blockchain-Implementation**](https://github.com/Sid330s/Blockchain-Implementation)  
-10. [**MOS**](https://github.com/Sid330s/MOS)  
-11. [**CNT-CP**](https://github.com/Sid330s/CNT-CP)  
-12. [**Goal-Stack-Planning-**](https://github.com/Sid330s/Goal-Stack-Planning)  
-13. [**tf-pose-estimation**](https://github.com/Sid330s/tf-pose-estimation)  
-14. [**TreeBase**](https://github.com/Sid330s/TreeBase)  
-15. [**MazeGame**](https://github.com/Sid330s/MazeGame)  
-16. [**ChessGame**](https://github.com/Sid330s/ChessGame)
-
-
-### 📫 Skills:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) 
-![Llama](https://img.shields.io/badge/Llama-%23276DC3.svg?style=for-the-badge&logo=meta&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-### 💬✨ Kind Words:'
-
-![Testimonials GIF](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
-
----
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/siddharth-kale-936922174)
-- [Email](mailto:siddharth.kale918@email.com) (siddharth.kale918@email.com)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 
 
+
+<details>
+  <summary>Projects</summary>
+  <br>
+
+| Project Name | Description | Technologies |
+|---|---|---|
+| [Chain4India-Supply-Chain-Model-for-PPE-Kits](https://github.com/Sid330s/Chain4India-Supply-Chain-Model-for-PPE-Kits) | Optimizes PPE kit distribution in India during crisis. | Blockchain, Fullstack Development |
+| [AIYogaTrainer](https://github.com/Sid330s/AIYogaTrainer) | AI-powered yoga trainer providing real-time feedback on poses. | Python, TensorFlow, Posenet |
+| [N-Queen-Problem](https://github.com/Sid330s/N-Queen-Problem) | Solves the N-Queens problem using backtracking and other algorithms. | C++, AI |
+| [useFullCodes-return-AC](https://github.com/Sid330s/useFullCodes-return-AC-) | Collection of useful code snippets for competitive programming, aiming for "Accepted" solutions. | C++, Python, Algorithms |
+| [WisePMS](https://github.com/Sid330s/WisePMS) | Project Management System for task tracking, team collaboration, and project monitoring. | Node.js, React, MongoDB, Express.js |
+| [Instagram-Clone](https://github.com/Sid330s/Instagram-Clone) | A simplified clone of Instagram with core features like feed, posts, and user profiles. | React, Node.js, Firebase |
+| [Investech](https://github.com/Sid330s/Investech) | Financial data analysis and investment strategy tools using machine learning. | Python, Apache Spark, Ddelt |
+| [Blockchain-Implementation](https://github.com/Sid330s/Blockchain-Implementation) | Basic implementation of a blockchain with functionalities like adding blocks and verifying transactions. | Java, Cryptography |
+| [MOS](https://github.com://github.com/Sid330s/MOS) | Multiprogramming Operating System | python |
+| [Goal-Stack-Planning](https://github.com/Sid330s/Goal-Stack-Planning) | Implementation of a goal-stack planning algorithm for AI agents. | Python, AI, Planning |
+| [TreeBase](https://github.com/Sid330s/TreeBase) | A tree-based data storage and retrieval system. | C++, Data Structures |
+| [MazeGame](https://github.com/Sid330s/MazeGame) | A simple maze game implemented with graphical interface. | Assembly Language |
+| [ChessGame](https://github.com/Sid330s/ChessGame) | Implementation of a chess game with basic gameplay logic. | C++, OOPS |
+
+</details>
+
+<details>
+  <summary>Kind Words💬✨</summary>
+
+  <br>
+
+  ![Testimonials GIF](https://github.com/Sid330s/Sid330s/raw/main/Testimonials.gif)
+
+</details>
 
