@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Siddharth** - I'm a software engineer, maker, and avid learner. I work on a ton of random projects in my free time.
 
-Check out my [portfolio](https://github.com/Sid330s).
+Check out my [Leetcode]([https://github.com/Sid330s](https://leetcode.com/u/user8290n/)).
 
 [![SkillIcons](https://skillicons.dev/icons?i=anaconda,angular,ansible,apple,aws,azure,bash,bootstrap,c,cpp,css,discord,django,docker,dynamodb,eclipse,elasticsearch,fastapi,flask,gcp,git,github,gitlab,gmail,go,grafana,graphql,html,java,js,kafka,kubernetes,latex,linkedin,linux,md,maven,mongodb,mysql,nextjs,nginx,nodejs,npm,obsidian,postgres,postman,powershell,prometheus,py,pytorch,r,rabbitmq,react,redhat,redis,regex,ruby,rust,spring,sqlite,scala,sklearn,tensorflow,terraform,ts,vscode,windows)](https://skillicons.dev)<br/>
 
